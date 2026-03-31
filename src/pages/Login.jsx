@@ -15,8 +15,8 @@ export default function Login() {
       <div className="bg-white rounded-2xl shadow-2xl p-10 flex flex-col items-center gap-6 w-full max-w-sm">
         <div className="text-5xl">✈️</div>
         <div className="text-center">
-          <h1 className="text-2xl font-bold text-gray-900">The Boys Trip</h1>
-          <p className="text-gray-500 mt-1 text-sm">Plan it. Live it. Remember it.</p>
+          <h1 className="text-2xl font-bold text-gray-900">Clocktown</h1>
+          <p className="text-gray-500 mt-1 text-sm">Don't Be Late!</p>
         </div>
         <button
           onClick={signInWithGoogle}
